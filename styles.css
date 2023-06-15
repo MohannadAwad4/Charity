@@ -1,0 +1,52 @@
+body{
+    background-color: orange;
+}
+#title{
+    text-align: center;
+
+}
+#navBar  {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+
+    background-color: yellow;
+    outline: auto;
+
+
+  }
+  #navBar li {
+    display: inline;
+    margin: 10;
+    font-size: 200%;
+    outline: auto;
+
+
+  } 
+  #button{
+    width: 12%;
+    font-size: 20px;
+    text-align: center;
+    background-color: red;
+    height: 37px;
+    outline: auto;
+  }
+  #image{
+    width: 70%;
+  }
+  #button2{
+    width: 30%;
+    font-size: 20px;
+    text-align: center;
+    background-color: red;
+    height: 37px;
+    outline: auto;
+  }
+  #centerButton{
+    text-align: center;
+  }
+  .events{
+    background-color: yellow;
+    outline: auto;
+    font-size: 20px;
+  }
